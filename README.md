@@ -1,6 +1,6 @@
 # play_xylophone
 
-A working xylophone game.
+A working xylophone Musical APP.
 
 
 https://user-images.githubusercontent.com/51168410/119109731-0be20580-ba3f-11eb-8e6e-1b6406144d02.mp4
